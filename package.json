@@ -2,6 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://egoing.github.io/react-tutorial-example/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
